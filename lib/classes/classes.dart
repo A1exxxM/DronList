@@ -39,11 +39,11 @@ class Home extends StatelessWidget {
             height: 120,
             width: 100,
             decoration: BoxDecoration(
-                boxShadow: const [
-                  BoxShadow(
+                boxShadow: [
+                    BoxShadow(
                       color: Colors.black45,
                       spreadRadius: 0.5,
-                      blurRadius: 5,
+                      blurRadius: 9,
                       offset: Offset(-1,3)
                   ),
                 ],
@@ -87,11 +87,11 @@ class Home extends StatelessWidget {
               height: 120,
               width: 100,
               decoration: BoxDecoration(
-                boxShadow: const [
+                boxShadow: [
                   BoxShadow(
                       color: Colors.black45,
                       spreadRadius: 0.5,
-                      blurRadius: 5,
+                      blurRadius: 9,
                       offset: Offset(-1,3)
                   ),
                 ],
@@ -137,11 +137,11 @@ class Home extends StatelessWidget {
               height: 120,
               width: 100,
               decoration: BoxDecoration(
-                boxShadow: const [
+                boxShadow: [
                   BoxShadow(
                       color: Colors.black45,
                       spreadRadius: 0.5,
-                      blurRadius: 5,
+                      blurRadius: 9,
                       offset: Offset(-1,3)
                   ),
                 ],
@@ -187,11 +187,11 @@ class Home extends StatelessWidget {
               height: 120,
               width: 100,
               decoration: BoxDecoration(
-                boxShadow: const [
+                boxShadow: [
                   BoxShadow(
                       color: Colors.black45,
                       spreadRadius: 0.5,
-                      blurRadius: 5,
+                      blurRadius: 9,
                       offset: Offset(-1,3)
                   ),
                 ],
